@@ -1,6 +1,6 @@
-# QuantLab
+# Nexus Marketing
 
-Demo comercial estática para QuantLab.
+Demo comercial estática para Nexus Marketing.
 
 ## Contenido
 
