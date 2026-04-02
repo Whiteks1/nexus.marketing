@@ -1,14 +1,18 @@
 # Nexus Marketing
 
-Landing estática inicial para Nexus Marketing.
+Proyecto web estático de Nexus Marketing.
 
 ## Contenido
 
 - Hero con propuesta de valor
 - Sección de servicios
-- Sección de proceso
-- Bloque de upselling
+- Proceso de trabajo
+- Bloque de escalado
 - CTA final
+
+## Enfoque
+
+Base pensada para una entrega rápida, con hasta 2 revisiones incluidas y espacio para ampliar más adelante con ecommerce, IA o booking si el proyecto lo necesita.
 
 ## Uso
 
